@@ -106,3 +106,12 @@ See `.env.example`:
 Fonts: Baloo 2 + Plus Jakarta Sans
 
 **Phase 6 delivered.**
+
+## Images
+- Admin page: 
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/fcd70830-e1ce-4011-b958-03f62b8395f9" />
+
+- Home page:
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/a7b8880d-a26e-455d-adff-ab30076cf2b7" />
+
+
